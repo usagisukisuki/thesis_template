@@ -1,1 +1,1 @@
-# thesis_template
+# thesis_template_Meijo
